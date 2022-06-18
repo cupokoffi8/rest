@@ -1,0 +1,23 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "## *This is an important aspect of a Client-Server model, which uses the HTTP protocol to perform necessary CRUD operations that allow for a functional user experience.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupokoffi8/rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupokoffi8/rest/issues"
+  },
+  "homepage": "https://github.com/cupokoffi8/rest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
