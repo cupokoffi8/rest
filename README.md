@@ -26,3 +26,8 @@ I began by creating an empty directory, and ran the following command to create 
  ```ssh
  npm init --yes 
  ```
+ 
+ Then, I installed the Express library in the terminal: 
+  ```ssh
+  npm i express 
+  ```
